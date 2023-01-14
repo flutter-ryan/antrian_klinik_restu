@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "660709614062",
+    "project_id": "antrian-online-8ffd4",
+    "storage_bucket": "antrian-online-8ffd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660709614062:android:3a027675063b9d4592aeff",
+        "android_client_info": {
+          "package_name": "com.klinikrestu.antrian_online_ext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660709614062-2695u8p96450ik4fjos9vudbh8m7u5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRqQz6q2-d_HWnEOKfs4VqiYmqXNomX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660709614062-2695u8p96450ik4fjos9vudbh8m7u5gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660709614062-488fqcljaq32ij85kh99bfca6g0eqsu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.ryan-achmad.antrianOnlineExt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660709614062:android:0df2d50be85444e692aeff",
+        "android_client_info": {
+          "package_name": "com.klinikrestu.antrian_online_restu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660709614062-2695u8p96450ik4fjos9vudbh8m7u5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRqQz6q2-d_HWnEOKfs4VqiYmqXNomX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660709614062-2695u8p96450ik4fjos9vudbh8m7u5gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660709614062-488fqcljaq32ij85kh99bfca6g0eqsu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.ryan-achmad.antrianOnlineExt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
